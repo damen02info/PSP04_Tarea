@@ -2,6 +2,12 @@ import java.net.InetAddress;
 import java.net.URL;
 import java.util.Scanner;
 
+/**
+ * AuditorNombres
+ * @author Daniel Mendez Arias - 13/01/2026
+ * Programa que solicita una dirección web al usuario y realiza las siguientes tareas:
+ */
+
 public class AuditorNombres {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

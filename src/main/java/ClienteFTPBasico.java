@@ -6,6 +6,12 @@ import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * ClienteFTPBasico
+ * @author Daniel Mendez Arias - 13/01/2026
+ * Programa que se conecta a un servidor FTP, lista los archivos en el directorio raíz,
+ */
+
 public class ClienteFTPBasico {
 
     public static void main(String[] args) {
